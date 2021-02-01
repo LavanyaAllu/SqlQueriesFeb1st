@@ -1,0 +1,54 @@
+-----Insert SP
+create proc sp_InsertEmp1
+@ename varchar(20),
+@sal float,
+@dno int
+as
+begin
+insert into EmployeeTab values(@ename,@sal,@dno)
+end
+
+
+----Update SP
+
+create proc sp_UpdateEmp1
+@empid int,
+  @empname varchar(20),
+  @salary float,
+  @deptno int
+   as
+   begin
+   update EmployeeTab set EmpName=@empname,Salary=@salary,DeptNo=@deptno
+   where Empid=@empid
+   end
+
+----Delete SP
+
+create proc sp_DeleteEmp
+@eid int
+as 
+begin
+delete from Employeetab where EmpId=@eid
+end
+
+execute sp_DeleteEmp 1004
+
+
+--Stored procedure for Search
+
+
+create proc sp_Search
+@empid int
+as
+begin
+select e.EmpId,e.EmpName,e.Salary,d.DeptName
+from Employeetab e join Department d
+on e.DeptNo=d.DeptId
+where EmpID=@empid
+end
+
+execute sp_Search 5
+
+---select * from EmployeeTab
+
+

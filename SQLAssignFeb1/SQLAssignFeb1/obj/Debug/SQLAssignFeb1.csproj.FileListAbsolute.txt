@@ -1,0 +1,7 @@
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\bin\Debug\SQLAssignFeb1.exe.config
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\bin\Debug\SQLAssignFeb1.exe
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\bin\Debug\SQLAssignFeb1.pdb
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\obj\Debug\SQLAssignFeb1.csprojAssemblyReference.cache
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\obj\Debug\SQLAssignFeb1.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\obj\Debug\SQLAssignFeb1.exe
+E:\DotNetFreshersBatchJan2021\sqlAssignFeb1\SQLAssignFeb1\SQLAssignFeb1\obj\Debug\SQLAssignFeb1.pdb
